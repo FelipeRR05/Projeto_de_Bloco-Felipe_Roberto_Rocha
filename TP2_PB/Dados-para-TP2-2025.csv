@@ -1,0 +1,29 @@
+id_cliente,nome,profissao,area_profissao,valor_mensalidade,data_inscricao,plano_premium
+10,Alec do Nascimento,Técnico,Jurídico,"3.000,0",3/16/2023,0
+20,Arthur Assis,Analista,Jurídico,"5.000,0",4/19/2020,0
+30,Caio Cesar,Técnico,Financeiro,"3.000,0",10/1/2021,0
+40,Daniel da Silva,Analista,Financeiro,"5.000,0",12/26/2022,0
+50,Davi de Oliveira,Analista,TI,"5.000,0",9/23/2022,0
+60,Gabriel Maia,Técnico,Financeiro,"3.000,0",12/19/2023,0
+70,Gabriel Cavalcante,Analista,TI,"5.000,0",5/9/2020,0
+80,Igor Cruz,Técnico,Financeiro,"3.000,0",1/14/2024,0
+90,João David Castro,Coodenador,TI,"6.000,0",1/7/2024,1
+100,João Miguel da Silva,Gerente,Jurídico,"7.500,0",5/19/2021,1
+110,João Paulo de Abreu,CFO,Financeiro,"15.000,0",12/21/2021,1
+120,Jorge Henrique da Silva,Diretor,Financeiro,"8.500,0",1/12/2022,1
+130,Júlia Pereira Santos,Analista,Jurídico,"5.000,0",10/3/2020,0
+140,Karoline de Oliveira,Técnico,Jurídico,"3.000,0",3/15/2023,0
+150,Kauã Correia,Analista,Jurídico,"5.000,0",9/9/2020,0
+160,Kauan Torres,Técnico,TI,"3.000,0",9/3/2020,0
+170,Lara Pessanha,Analista,TI,"5.000,0",11/1/2021,0
+180,LauraSantos,Técnico,TI,"3.000,0",9/1/2022,0
+190,Lauro Andrade,CEO,Executivo,"30.000,0",8/4/2022,1
+200,Matheus da Silva,Analista,Financeiro,"5.000,0",3/22/2020,0
+210,Miguel Chaves,Técnico,Financeiro,"3.000,0",4/6/2022,0
+220,NIcollas Theodoro,Técnico,TI,"3.000,0",4/11/2022,0
+230,Pedro Henrique Santos,Técnico,TI,"3.000,0",6/4/2021,0
+240,Rayssa da Silva,Diretor,TI,"8.500,0",4/7/2021,1
+250,Rebeca Alves,Analista,TI,"5.000,0",11/29/2022,0
+260,Tábatha Tavares,Técnico,TI,"3.000,0",3/21/2021,0
+270,Vinicius Araujo,Analista,TI,"5.000,0",8/7/2023,0
+280,Yan Tavares,Técnico,TI,"3.000,0",6/16/2023,0
