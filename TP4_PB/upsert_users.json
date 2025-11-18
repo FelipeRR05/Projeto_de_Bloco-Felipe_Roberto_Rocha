@@ -1,0 +1,17 @@
+[
+  {
+    "user_id": 1,
+    "full_name": "Paulo Henrique",
+    "experience_level": "Avançado"
+  },
+  {
+    "user_id": 4,
+    "full_name": "Nuno Moreira",
+    "experience_level": "Iniciante"
+  },
+  {
+    "user_id": 5,
+    "full_name": "Cauan Barros",
+    "experience_level": "Intermediário"
+  }
+]
