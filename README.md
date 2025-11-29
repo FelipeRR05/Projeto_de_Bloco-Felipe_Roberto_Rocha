@@ -1,4 +1,4 @@
-TP1 de Projeto de Bloco
+TPS de Projeto de Bloco
 
 Aluno: Felipe Roberto Rocha
 
